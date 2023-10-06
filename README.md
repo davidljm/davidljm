@@ -12,6 +12,7 @@
 ## Skills:
 
 [![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge)]()</br>
+[![Linux](https://img.shields.io/badge/Linux-green?style=for-the-badge)]()</br>
 [![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge)]()</br>
 [![C](https://img.shields.io/badge/C-007396?style=for-the-badge)]()</br>
 

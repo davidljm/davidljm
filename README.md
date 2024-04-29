@@ -18,6 +18,11 @@
 
 </br>
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=davidljm&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=davidljm&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=davidljm&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
 ## Find me at:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-David_Mulé-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/davidmule93/)</br>
